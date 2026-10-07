@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOUR-NAME"
+  title: "Rachel Ernst"
   navbar:
     background: "#4A7862"
     foreground: "#F3F3EE"
