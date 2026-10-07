@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "YOUR-NAME"
+  navbar:
+    background: "#4A7862"
+    foreground: "#F3F3EE"
+    search: true
+    left:
+      - lab-notebook/index.qmd
+      - reading-notes/index.qmd
+      - meetings.qmd
+      - text: "Projects"
+        menu:
+        - projects/my-project/index.qmd
+    sidebar:
+      contents: auto
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    linkcolor: "#4A7862"
+    backgroundcolor: "#faf8f6"
+    code-block-bg: "#EEEEEE"
+    highlight-style: github

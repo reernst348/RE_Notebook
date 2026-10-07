@@ -1,0 +1,50 @@
+---
+title: YOUR-NAME
+page-layout: full
+---
+
+::: {.hero-grid}
+
+::: {.hero-text}
+#### PROJECT-INTEREST
+
+:::
+<!--
+::: {.hero-image}
+![](headshots/){alt="" class="headshot"}
+![](headshots/){alt="" class="fieldshot"}
+:::
+-->
+
+:::
+
+<hr class="section-divider">
+
+::: {.content-card}
+## About Me
+
+Your info!
+
+Here you'll find information about my research, outreach and education activities, and my comprehensive lab notebook documenting ongoing projects and findings.
+:::
+
+<hr class="section-divider">
+
+::: {.content-card}
+## Contact
+
+##### YOUR-NAME
+
+
+##### Email:
+[your-wm-username (at) wm.edu](mailto:wm-email-address)
+
+##### Mailing Address:
+
+
+---
+
+### Find me online
+
+- [GitHub](your-github)
+:::
