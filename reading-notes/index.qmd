@@ -1,0 +1,44 @@
+---
+title: "Reading notes"
+format: html
+listing:
+  contents:
+    - "*.qmd"
+  type: table
+  fields: [title, author, year, projects, keywords]
+  filter-ui: [title, author, year, projects, keywords]
+---
+
+
+## Overview
+The `Reading Notes` landing page is for you to curate and maintain any articles, manuals,
+or media that is related in any way to your research. Ideally, this should be treated
+like an annotated bibliography. To make the most of this, make sure to include useful
+keywords and link to any relevant projects (when possible).
+
+Information on making new notes and editing them is below.
+
+---
+
+### Making a new "reading note"
+To make a new reading note, simply make a copy the existing template and update
+the contents.
+
+The file also automatically gets added to a table of all such files, which is
+accessible from the `Reading Notes` landing page of the website.
+
+This file is also added to the `Reading Notes` section of each `Project`
+landing page.
+
+Creating and editing reading notes will be demonstrated in the video below -- when Xyrus has the time!
+
+:::{.callout-note collapse="true"}
+
+### Video instructions to create and edit reading notes
+
+{{< video ../media/reading-notes-video.mp4 >}}
+
+:::
+
+
+---
