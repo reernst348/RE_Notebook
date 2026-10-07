@@ -1,5 +1,5 @@
 ---
-title: YOUR-NAME
+title: Rachel Ernst
 page-layout: full
 ---
 
@@ -37,7 +37,7 @@ Here you'll find information about my research, outreach and education activitie
 
 
 ##### Email:
-[your-wm-username (at) wm.edu](mailto:wm-email-address)
+[reernst (at) wm.edu](mailto:wm-email-address)
 
 ##### Mailing Address:
 
@@ -46,5 +46,5 @@ Here you'll find information about my research, outreach and education activitie
 
 ### Find me online
 
-- [GitHub](your-github)
+- [GitHub](https://reernst348.github.io/RE_Notebook/)
 :::
