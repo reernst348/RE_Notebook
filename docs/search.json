@@ -58,65 +58,37 @@
   {
     "objectID": "lab-notebook/week-of-2026-09-14.html",
     "href": "lab-notebook/week-of-2026-09-14.html",
-    "title": "Week of 2026-09-14",
+    "title": "Git hub Guide",
     "section": "",
     "text": "Below is an example checklist!\nYou can set some larger goals here, regardless of if you complete them or not!\n\nSet up the lab notebook\nSuccessfully make a first post\nUpdate a post!\nMake a post on how to render the notebook\nAdd a guide to “push” updates to GitHub"
   },
   {
     "objectID": "lab-notebook/week-of-2026-09-14.html#goals-for-the-week",
     "href": "lab-notebook/week-of-2026-09-14.html#goals-for-the-week",
-    "title": "Week of 2026-09-14",
+    "title": "Git hub Guide",
     "section": "",
     "text": "Below is an example checklist!\nYou can set some larger goals here, regardless of if you complete them or not!\n\nSet up the lab notebook\nSuccessfully make a first post\nUpdate a post!\nMake a post on how to render the notebook\nAdd a guide to “push” updates to GitHub"
   },
   {
-    "objectID": "lab-notebook/week-of-2026-09-14.html#monday",
-    "href": "lab-notebook/week-of-2026-09-14.html#monday",
-    "title": "Week of 2026-09-14",
-    "section": "Monday",
-    "text": "Monday"
-  },
-  {
-    "objectID": "lab-notebook/week-of-2026-09-14.html#tuesday",
-    "href": "lab-notebook/week-of-2026-09-14.html#tuesday",
-    "title": "Week of 2026-09-14",
-    "section": "Tuesday",
-    "text": "Tuesday"
-  },
-  {
-    "objectID": "lab-notebook/week-of-2026-09-14.html#wednesday",
-    "href": "lab-notebook/week-of-2026-09-14.html#wednesday",
-    "title": "Week of 2026-09-14",
-    "section": "Wednesday",
-    "text": "Wednesday"
-  },
-  {
-    "objectID": "lab-notebook/week-of-2026-09-14.html#thursday",
-    "href": "lab-notebook/week-of-2026-09-14.html#thursday",
-    "title": "Week of 2026-09-14",
-    "section": "Thursday",
-    "text": "Thursday"
-  },
-  {
-    "objectID": "lab-notebook/week-of-2026-09-14.html#friday",
-    "href": "lab-notebook/week-of-2026-09-14.html#friday",
-    "title": "Week of 2026-09-14",
-    "section": "Friday",
-    "text": "Friday"
+    "objectID": "lab-notebook/week-of-2026-09-14.html#github-updates",
+    "href": "lab-notebook/week-of-2026-09-14.html#github-updates",
+    "title": "Git hub Guide",
+    "section": "Github Updates!",
+    "text": "Github Updates!\ngit status\ngit add .\ngit commit -m “”\ngit push"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "YOUR-NAME",
+    "title": "Rachel Ernst",
     "section": "About Me",
     "text": "About Me\nYour info!\nHere you’ll find information about my research, outreach and education activities, and my comprehensive lab notebook documenting ongoing projects and findings."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "YOUR-NAME",
+    "title": "Rachel Ernst",
     "section": "Contact",
-    "text": "Contact\n\nYOUR-NAME\n\n\nEmail:\nyour-wm-username (at) wm.edu\n\n\nMailing Address:\n\n\n\nFind me online\n\nGitHub"
+    "text": "Contact\n\nRachel Ernst\n\n\nEmail:\nreernst (at) wm.edu\n\n\nMailing Address:\n\n\n\nFind me online\n\nGitHub"
   },
   {
     "objectID": "lab-notebook/index.html",
@@ -179,7 +151,7 @@
     "href": "projects/my-project/index.html#lab-notebook-entries",
     "title": "my-project",
     "section": "Lab notebook entries",
-    "text": "Lab notebook entries\n\n\n\n\n\n\nTitle\n\n\n\nprojects\n\n\n\nkeywords\n\n\n\n\n\n\n\n\nWeek of 2026-09-14\n\n\nmy-project\n\n\n \n\n\n\n\n\n\nNo matching items"
+    "text": "Lab notebook entries\n\n\n\n\n\n\nTitle\n\n\n\nprojects\n\n\n\nkeywords\n\n\n\n\n\n\n\n\nGit hub Guide\n\n\nmy-project\n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/my-project/index.html#concept-notes-and-other-ideas",

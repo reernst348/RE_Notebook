@@ -1,5 +1,5 @@
 ---
-title: "Week of 2026-10-07"
+title: "Git hub Guide"
 author: "Rachel Ernst"
 date: 2026-10-07
 projects: my-project
@@ -16,18 +16,13 @@ You can set some larger goals here, regardless of if you complete them or not!
 - [ ] Make a post on how to render the notebook
 - [ ] Add a guide to "push" updates to GitHub
 
-## Github Guide!
+## Github Updates!
 git status
+
 git add .
-git -m ""
+
+git commit -m ""
+
 git push
 
-## Monday
 
-## Tuesday
-
-## Wednesday
-
-## Thursday
-
-## Friday
